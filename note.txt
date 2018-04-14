@@ -1,0 +1,32 @@
+# my notebook ~.~
+who we take this course ?
+Artificial Intelligence is interesting.And language is the mostcompelling manifestation of intelligence.
+
+DL reference is Deep learning.(www.deeplearningbook.org)
+
+prerequisites
+math:Linear Algebra  Calculus  Probability
+
+ML: models( linear regression and classification, neural networks)
+ overfitting, generalisation, and regularisation  optimisation
+general background in ML (one book ML:A Probabilistic Perspective)
+
+Programming:a NN toolkit
+
+what this course is ?
+tell you how to use DL for NLP
+More about language and computational liguistics  and more interesting paradigms beyonf DL.
+
+Introduction -1 -a
+
+Language Understanding
+
+Speech Processing and Machine Translation
+	ASR->MT->TTS
+Image Understanding
+
+Linguistic Structure
+	Sense
+	Idioms
+	Reference
+	etc.
